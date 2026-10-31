@@ -57,45 +57,6 @@
    "people": [],
    "firstSeen": 1793215539387
   },
-  "CtD-6HZlFl0": {
-   "id": "CtD-6HZlFl0",
-   "title": "El dólar no es el principal riesgo: qué está FRENANDO la economía de Milei",
-   "publishedAt": "2026-10-28T16:05:11Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793215539387
-  },
-  "Aq3Pv6GHuNE": {
-   "id": "Aq3Pv6GHuNE",
-   "title": "TikTok quiere dominar algo MÁS GRANDE que las redes sociales | Sello Argento",
-   "publishedAt": "2026-10-28T14:42:14Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793215539387
-  },
-  "eF_YdkhWl0E": {
-   "id": "eF_YdkhWl0E",
-   "title": "¿QUÉ ES LA BIBLIOTAXI?",
-   "publishedAt": "2026-10-28T14:10:17Z",
-   "status": "none",
-   "start": null,
-   "channel": "El Cronista Stream",
-   "handle": "@Cronista_ar",
-   "programs": [],
-   "via": {},
-   "people": [],
-   "firstSeen": 1793215539387
-  },
   "29sy62R9xJY": {
    "id": "29sy62R9xJY",
    "title": "Viajar en COLECTIVO podría costar casi el TRIPLE sin subsidios | Rochi Grimaldi",
@@ -1120,6 +1081,49 @@
    "via": {},
    "people": [],
    "firstSeen": 1793433177666
+  },
+  "NCH9wkYhPIU": {
+   "id": "NCH9wkYhPIU",
+   "title": "La revolución de las compras en TikTok que todavía no llegó a la Argentina | Sello Argento",
+   "publishedAt": "2026-10-31T13:00:02Z",
+   "status": "none",
+   "start": null,
+   "channel": "El Cronista Stream",
+   "handle": "@Cronista_ar",
+   "programs": [],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793455928898
+  },
+  "IGkl9Goiqsg": {
+   "id": "IGkl9Goiqsg",
+   "title": "¿Cómo se maneja la inteligencia emocional?",
+   "publishedAt": "2026-10-31T14:00:17Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793455928898
+  },
+  "FBdzjY066uw": {
+   "id": "FBdzjY066uw",
+   "title": "\"Mi mujer me hizo más humano\"",
+   "publishedAt": "2026-10-28T19:00:02Z",
+   "status": "none",
+   "start": null,
+   "channel": "La Fábrica Podcast",
+   "handle": "@LaFabricaDelPodcast",
+   "programs": [
+    "La Fábrica Podcast"
+   ],
+   "via": {},
+   "people": [],
+   "firstSeen": 1793455928898
   }
  },
  "sent": {
@@ -1217,15 +1221,16 @@
   "wm35atoc7VI:new": 1793385747676,
   "OhJdLu2yJ6o:new": 1793385747676,
   "XMOreU9Xyos:new": 1793399971937,
-  "uX8r0FmCRPg:new": 1793399971937
+  "uX8r0FmCRPg:new": 1793399971937,
+  "IGkl9Goiqsg:new": 1793455928898
  },
  "day": {
   "date": "2026-10-31",
-  "count": 0
+  "count": 1
  },
  "initialized": true,
- "lastDigest": "2026-10-30",
- "lastDigestAt": 1793366404608,
+ "lastDigest": "2026-10-31",
+ "lastDigestAt": 1793455928898,
  "known": {
   "@Cronista_ar": true,
   "@laformulapod": true,
